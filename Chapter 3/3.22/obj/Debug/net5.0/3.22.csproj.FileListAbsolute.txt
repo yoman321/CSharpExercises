@@ -1,0 +1,16 @@
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\bin\Debug\net5.0\3.22.exe
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\bin\Debug\net5.0\3.22.deps.json
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\bin\Debug\net5.0\3.22.runtimeconfig.json
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\bin\Debug\net5.0\3.22.runtimeconfig.dev.json
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\bin\Debug\net5.0\3.22.dll
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\bin\Debug\net5.0\ref\3.22.dll
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\bin\Debug\net5.0\3.22.pdb
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.csprojAssemblyReference.cache
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.AssemblyInfoInputs.cache
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.AssemblyInfo.cs
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.csproj.CoreCompileInputs.cache
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.dll
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\ref\3.22.dll
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.pdb
+C:\Users\luoph\Desktop\C# Programming\Exercises\Chapter 3\3.22\obj\Debug\net5.0\3.22.genruntimeconfig.cache
